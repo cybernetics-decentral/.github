@@ -17,7 +17,7 @@ Our work is defined by the three words in our foundation stone:
 
 **DISTRIBUTED:** This is our fundamental method. We reject centralized authority in favor of transparent, peer-to-peer architectures and cooperative governance. We work to ensure that access, ownership, and benefits are distributed fairly across the entire network of humanity.
 
-What We Do:
+## What We Do:
 
 **CYBERNETICS DECENTRAL** operates as a research institute, a developer of open-source tools, and a philanthropic funder, focusing on:
 
