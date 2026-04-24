@@ -59,4 +59,4 @@ CYBERNETICS DECENTRAL operates as a research institute, a developer of open-sour
 
 > **"The future of intelligence will not be centralized in a server farm; it will be distributed across the collective mind of a free humanity."** > — *The Cybernetics Decentral Manifesto*
 
-By combining cutting-edge engineering with a radical commitment to human rights, **CYBERNETICS DECENTRAL** is building the infrastructure for a free, secure, and sovereign tomorrow.
+By combining cutting-edge engineering with a radical commitment to human rights, **CYBERNETICS DECENTRAL** is building the infrastructure for a free, secure, and sovereign tomorrow. In a world of increasing complexity and centralized control, CYBERNETICS DECENTRAL stands as a glowing beacon for a networked future that is intelligent, equitable, and accessible by everyone.
