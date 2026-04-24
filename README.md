@@ -24,9 +24,9 @@ To shape a future where the powerful capabilities of artificial intelligence, ma
 The organization is built upon six fundamental principles, divided into our **Methodology** and our **Moral Mandate**.
 
 ### **The Methodology (What We Build)**
-* **HUMANKIND:** We prioritize biological well-being and the enhancement of the human experience. All projects must pass a "Human-First" ethical audit to ensure they augment rather than replace human agency.
-* **TECHNOLOGY:** We push the boundaries of cybernetics, supporting the development of open-source neural interfaces, adaptive AI, and peer-to-peer networks that are resilient and accessible to all.
-* **DISTRIBUTED:** We actively dismantle centralized points of control. By utilizing decentralized infrastructure, we ensure that no single government or corporation can "turn off" or manipulate the systems humanity relies on.
+* **HUMANKIND:** We prioritize biological well-being and the enhancement of the human experience. All projects must pass a "Human-First" ethical audit to ensure they augment rather than replace human agency. We champion ethical AI, human-augmentation technologies, and digital systems designed with empathy and a profound respect for human agency, dignity, and privacy.
+* **TECHNOLOGY:** We are pioneers and researchers, pushing the boundaries of cybernetics, supporting the development of open-source neural interfaces, adaptive AI, and peer-to-peer networks that are resilient and accessible to all.
+* **DISTRIBUTED:** We actively dismantle centralized points of control. By utilizing decentralized infrastructure, we ensure that no single government or corporation can "turn off" or manipulate the systems humanity relies on. This is our fundamental method. We reject centralized authority in favor of transparent, peer-to-peer architectures and cooperative governance. We work to ensure that access, ownership and benefits of technology are distributed fairly across the entire network of humanity.
 
 ### **The Moral Mandate (What We Protect)**
 * **PRIVACY:** We believe that your thoughts and data are your own. We develop zero-knowledge protocols and encrypted neural-link standards that keep personal information invisible to external observers.
