@@ -2,9 +2,15 @@
 # CYBERNETICS DECENTRAL
 ### **The Foundation for Cognitive Autonomy and Distributed Intelligence**
 
-**CYBERNETICS DECENTRAL** is a global non-profit organization dedicated to ensuring that the next evolution of human-machine interaction remains open, equitable, and—above all—private. We operate at the intersection of neural engineering, distributed ledger technology, and civil advocacy. 
+**CYBERNETICS DECENTRAL** is a global non-profit organization dedicated to ensuring that the next evolution of human-machine interaction remains open, equitable, and—above all—private. We operate at the intersection of neural engineering, Artificial Intelligence, distributed ledger technology, and civil advocacy. 
 
 In an era where the lines between biological and digital intelligence are blurring, our mission is to provide the architectural "blueprints" for a future where technology serves humanity, rather than the other way around.
+
+---
+
+**Our Identity:**
+
+CYBERNETICS DECENTRAL is a forward-thinking, non-profit organization at the confluence of advanced systems theory and decentralized network technology. We are dedicated to the ethical development and equitable distribution of cybernetic systems for the public good. The glowing, complex, and symmetrical hexagonal emblem in our logo represents the harmonic fusion of organic intelligence and artificial networks, a decentralized 'neural grid' that connects all parts without a central point of failure or control.
 
 ---
 
