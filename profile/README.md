@@ -8,9 +8,15 @@ In an era where the lines between biological and digital intelligence are blurri
 
 ---
 
-**Our Identity:**
+## Our Identity:
 
 CYBERNETICS DECENTRAL is a forward-thinking, non-profit organization at the confluence of advanced systems theory and decentralized network technology. We are dedicated to the ethical development and equitable distribution of cybernetic systems for the public good. The glowing, complex, and symmetrical hexagonal emblem in our logo represents the harmonic fusion of organic intelligence and artificial networks, a decentralized 'neural grid' that connects all parts without a central point of failure or control.
+
+---
+
+## Our Vision:
+
+To shape a future where the powerful capabilities of artificial intelligence, machine learning, and neural interfaces do not consolidate power in the hands of a few, but are instead distributed to empower all.
 
 ---
 
