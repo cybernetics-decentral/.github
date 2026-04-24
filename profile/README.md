@@ -31,6 +31,18 @@ The organization is built upon six fundamental principles, divided into our **Me
 4.  **Legislative Advocacy:** A global policy team working with international bodies to establish a "Cybernetic Bill of Rights," protecting individuals from cognitive surveillance and data harvesting.
 
 ---
+## What We Do:
+
+CYBERNETICS DECENTRAL operates as a research institute, a developer of open-source tools, and a philanthropic funder, focusing on:
+
+**Distributed Governance Systems:** Building the infrastructure for transparent, democratic decision-making at scale using blockchain and swarm intelligence models.
+
+**Human-Machine Augmentation:** Funding and conducting research into non-invasive neural interfaces that are affordable, open, and secure.
+
+**Ethical AI Development:** Creating frameworks and public-good AI models that are inherently unbiased, explainable, and accountable.
+
+**Network Literacy & Accessibility:** Ensuring that the benefits of the digital revolution are accessible to everyone, everywhere, removing central barriers to information and opportunity.
+---
 
 > **"The future of intelligence will not be centralized in a server farm; it will be distributed across the collective mind of a free humanity."** > — *The Cybernetics Decentral Manifesto*
 
