@@ -42,6 +42,8 @@ CYBERNETICS DECENTRAL operates as a research institute, a developer of open-sour
 **Ethical AI Development:** Creating frameworks and public-good AI models that are inherently unbiased, explainable, and accountable.
 
 **Network Literacy & Accessibility:** Ensuring that the benefits of the digital revolution are accessible to everyone, everywhere, removing central barriers to information and opportunity.
+
+
 ---
 
 > **"The future of intelligence will not be centralized in a server farm; it will be distributed across the collective mind of a free humanity."** > — *The Cybernetics Decentral Manifesto*
